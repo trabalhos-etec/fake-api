@@ -3,73 +3,73 @@
     {
       "id": 1,
       "nome": "Programação de Aplicativos Mobile",
-      "descricao": "Este curso aborda os princípios e práticas de desenvolvimento de aplicativos móveis para plataformas iOS e Android, incluindo linguagens de programação como Swift e Kotlin, frameworks e APIs de desenvolvimento de aplicativos móveis.",
+      "descricao": "A Programação de Aplicativo Mobile ensina a criar aplicativos para Android e iOS usando linguagens como Java e Swift. Nela os estudantes são ensinados a criar interfaces de usuário, usar APIs do dispositivo e publicar aplicativos na loja. Além disso, pode-se aprender sobre desenvolvimento multiplataforma com React Native ou Flutter. ",
       "url": "https://www.ibm.com/br-pt/topics/mobile-application-development"
     },
     {
       "id": 2,
       "nome": "Técnicas de Programação e Algoritmos",
-      "descricao": "Este curso explora os fundamentos da programação de computadores, incluindo algoritmos, estruturas de dados e técnicas de solução de problemas comuns. Ele também abrange conceitos avançados, como algoritmos de busca e ordenação.",
+      "descricao": "A disciplina de Técnicas de Programação de Algoritmo ensina a criar algoritmos, sendo ela uma sequências de passos para atingir um objetivo. Nela é ensinado sobre a lógica de programação, tipos de dados, estruturas de controle e estruturas de dados. Além disso, abordará tópicos como funções, arrays, gerenciamento de memória, recursão, manipulação de arquivos e modularização do código. Assim, torna-se uma disciplina fundamental para quem deseja se tornar um programador eficiente.",
       "url": "https://cm-kls-content.s3.amazonaws.com/201802/INTERATIVAS_2_0/ALGORITMOS_E_TECNICAS_DE_PROGRAMACAO/U1/LIVRO_UNICO.pdf"
     },
     {
       "id": 3,
       "nome": "Desenvolvimento de Sistemas",
-      "descricao": "Neste curso, os alunos aprendem a projetar, desenvolver e implementar sistemas de software complexos, utilizando metodologias de desenvolvimento ágil e ferramentas modernas de desenvolvimento de software.",
+      "descricao": "Desenvolvimento de Sistemas é uma matéria focada na criação de softwares para atender necessidades empresariais. Assim, ela aborda temas como algoritmos, programação, modelagem de dados, análise de sistemas e projeto de software. Deste modo, a disciplina visa encontrar explicações tecnológicas que auxiliem as organizações a atingir seus objetivos. ",
       "url": "https://www.eniac.com.br/blog/desenvolvimento-de-sistemas-o-que-e-como-funciona-e-mais"
     },
     {
       "id": 4,
       "nome": "Programação Web",
-      "descricao": "Este curso abrange os princípios e práticas de desenvolvimento de aplicativos da web, incluindo linguagens de marcação como HTML, linguagens de estilo como CSS e linguagens de script como JavaScript.",
+      "descricao": "A disciplina de Programação de Página Web, ensina a criar páginas web usando HTML para estrutura, CSS para estilo, e JavaScript para interatividade. Também aborda o uso de frameworks, como ReactJS, facilitando o desenvolvimento, além do design responsivo com o objetivo de garantir que as páginas funcionem bem em todos os dispositivos.",
       "url": "https://blog.eseg.edu.br/o-que-e-programacao-web/"
     },
     {
       "id": 5,
       "nome": "Ética e Cidadania Organizacional",
-      "descricao": "Este curso explora os princípios éticos e valores cívicos que orientam o comportamento e as decisões no contexto organizacional, promovendo uma cultura de integridade e responsabilidade social.",
+      "descricao": "Na matéria de Ética em Desenvolvimento de Sistemas, é lecionado sobre a importância da conduta moral no desenvolvimento de um software. Ademais, inclui tópicos como a segurança do software, privacidade, proteção de dados, implicações da IA, inclusão digital e acessibilidade. Sendo assim, o objetivo é preparar os alunos para tomar decisões éticas na carreira de desenvolvimento de software.",
       "url": "https://periodicos.faex.edu.br/index.php/e-Locucao/article/download/278/208/"
     },
     {
       "id": 6,
       "nome": "Banco de Dados",
-      "descricao": "Neste curso, os alunos aprendem os fundamentos teóricos e práticos de bancos de dados relacionais e não relacionais, incluindo modelagem de dados, linguagem SQL e administração de bancos de dados.",
+      "descricao": "Na matéria de Banco de Dados, é lecionado conceitos fundamentais, que são coleções de dados inter-relacionados que representam informações sobre um domínio específico. Nesse componente,  é ensinando sobre o Sistema de Gerenciamento de Banco de Dados (SGBD), sendo ele um software que manipula as informações do banco de dados e interage com o usuário. Além disso, também há o estudo sobre modelo relacional, que é uma maneira popular de organizar os dados, ademais é visto a linguagem SQL,  usada para interagir com bancos de dados relacionais.",
       "url": "https://www.oracle.com/br/database/what-is-database/"
     },
     {
       "id": 7,
       "nome": "Fundamentos de Informática",
-      "descricao": "Este curso introduz os fundamentos da ciência da computação e da tecnologia da informação, abrangendo tópicos como hardware de computador, sistemas operacionais, redes de computadores e segurança da informação.",
+      "descricao": "Na matéria de Fundamentos da Informática, é lecionado sobre hardware, software, redes de computadores, segurança da informação e, às vezes, tópicos como banco de dados, inteligência artificial e computação em nuvem.",
       "url": "https://icdl.org/workforce/fundamentos-informatica/"
     },
     {
       "id": 8,
       "nome": "Design Digital",
-      "descricao": "Neste curso, os alunos exploram os princípios e práticas do design digital, incluindo design de interfaces de usuário, design gráfico e design de experiência do usuário (UX).",
+      "descricao": "Design Digital é uma disciplina que foca na criação de soluções visuais para ambientes digitais, como sites e aplicativos. A matéria aborda temas como design de interfaces, experiência do usuário (UX), design de jogos, animação, realidade virtual e aumentada. Desta forma, cria-se soluções visuais e interativas funcionais no meio digital.",
       "url": "https://www.cursospm3.com.br/blog/design-digital/"
     },
     {
       "id": 9,
       "nome": "Sistemas Embarcados",
-      "descricao": "Este curso aborda os princípios de design e desenvolvimento de sistemas embarcados, incluindo hardware de computador especializado, sistemas operacionais em tempo real e programação de baixo nível.",
+      "descricao": "Sistemas Embarcados são programações em microprocessadores de equipamentos eletrônicos, permitindo que realizem tarefas específicas. Durante o curso, os alunos aprendem a programar esses sistemas, entender requisitos de hardware e software, gerenciando em um arduino.",
       "url": "http://www.uel.br/pos/ese/?page_id=27"
     },
     {
       "id": 10,
       "nome": "Internet e Protocolos de Sistemas de Informação",
-      "descricao": "Neste curso, os alunos exploram os protocolos de comunicação e os padrões de segurança que sustentam a internet e os sistemas de informação, incluindo TCP/IP, HTTP, DNS e SSL/TLS.",
+      "descricao": "Na matéria de Internet e Protocolo de Segurança de Sistemas de Informação, é lecionado sobre o funcionamento da internet e a proteção de sistemas contra ameaças cibernéticas. Assim, os estudantes aprendem sobre protocolos de internet, endereçamento IP, criptografia, controle de acesso e protocolos de segurança.",
       "url": "https://www.hostmidia.com.br/blog/protocolos-de-internet/"
     },
     {
       "id": 11,
       "nome": "Planejamento e Desenvolvimento do Trabalho de Conclusão de Curso",
-      "descricao": "Este curso orienta os alunos na elaboração de um projeto de pesquisa e desenvolvimento para o trabalho de conclusão de curso (TCC), incluindo definição de objetivos, revisão de literatura e metodologia de pesquisa.",
+      "descricao": "A disciplina de Planejamento de Trabalho de Conclusão de Curso orienta os alunos a planejar e organizar o TCC. Ela aborda a escolha do tema, pesquisa bibliográfica, estruturação e formatação do trabalho segundo as normas da ABNT.",
       "url": "http://www.etecjosedagnoni.com.br/downloads/Nucleobasico/VOL.3-PLANEJAMENTO_E_DESENVOLVIMENTO_DO_TCC.pdf"
     },
     {
       "id": 12,
       "nome": "Qualidade e Teste de Software",
-      "descricao": "Neste curso, os alunos aprendem os princípios e práticas de garantia de qualidade de software, incluindo técnicas de teste de software, automação de testes e gerenciamento de defeitos.",
+      "descricao": "A matéria de Qualidade e Teste de Software ensina os alunos a garantir a qualidade dos sistemas de software. Assim, é ensinado sobre testes unitários, de integração e de interface do usuário, além de métricas de controle de qualidade. O curso também aborda o planejamento e aplicação de técnicas e ferramentas de teste.",
       "url": "https://www.treinaweb.com.br/blog/importancia-dos-testes-de-software-na-qualidade-do-sistema"
     },
     {
@@ -81,7 +81,7 @@
     {
       "id": 14,
       "nome": "Análise e Projeto de Sistemas",
-      "descricao": "Este curso abrange os princípios e práticas de análise e projeto de sistemas de software, incluindo técnicas de modelagem de negócios, requisitos de software e arquitetura de sistemas.",
+      "descricao": "Na matéria de Análise e Projeto de Sistemas, é lecionado como entender as necessidades dos usuários e projetar sistemas de informação para atendê-las. Isso envolve aprender sobre o ciclo de vida do desenvolvimento de sistemas, diferentes metodologias de desenvolvimento e ferramentas de modelagem como a UML.",
       "url": ""
     }
   ],
